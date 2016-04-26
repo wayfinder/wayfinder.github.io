@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Wayfinder Open Source Project"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Wayfinder"
+description              : "Wayfinder Open Source Project information, documentation and downloads."
+url                      : "https://wayfinder.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Wayfinder"
+  avatar           : ""
+  bio              : ""
+  location         : ""
   email            :
   uri              :
   bitbucket        :
