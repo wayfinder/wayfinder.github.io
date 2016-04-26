@@ -60,35 +60,35 @@ google_ad_slot           :
 
 
 # Site Author
-author:
-  name             : "Wayfinder"
-  avatar           : ""
-  bio              : ""
-  location         : ""
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+#author:
+#  name             : "Wayfinder"
+#  avatar           : ""
+#  bio              : ""
+#  location         : ""
+#  email            :
+#  uri              :
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         :
+#  foursquare       :
+#  github           :
+#  google_plus      :
+#  keybase          :
+#  instagram        :
+#  lastfm           :
+#  linkedin         :
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  steam            :
+#  tumblr           :
+#  twitter          :
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
 
 
 # Reading Files
@@ -204,3 +204,15 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: false
+      share: true
+      related: true
