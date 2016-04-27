@@ -4,15 +4,41 @@ author_profile: false
 title: "Wayfinder Open Source Project"
 header:
   overlay_color: "#000"
-  overlay_image: wayfinder-city-w1280.jpg
+  overlay_image: wayfinder-road-w1280.jpg
   cta_label: "Source code"
   cta_url: "https://github.com/wayfinder/"
 excerpt: "The Wayfinder Open Source Project has open source versions of the former Wayfinder/Vodafone LBS platform including both backend and clients."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Wayfinder Systems provided smartphone navigation for millions of users with an end-to-end solution including both a highly scalable LBS platform running on clusters of Linux servers as well as clients running on the then common smartphone platforms. When the company was closed down by the owner Vodafone they provided permission and support to release the solution as open source software.'
+feature_row:
+  - image_path: wf-grey-paper.png
+    alt: "Documentation"
+    title: "Documentation"
+    url: "https://github.com/docs/"
+    excerpt: "Everything you need to know about the Wayfinder source and system"
+    btn_label: "Read it"
+    btn_class: "btn--inverse"
+  - image_path: wf-grey-window-phone.png
+    alt: "Repositories"
+    title: "Repositories"
+    excerpt: "Clone or fork all of the platform and client source code on github"
+    url: "https://github.com/wayfinder/"
+    btn_label: "Github"
+    btn_class: "btn--inverse"
+  - image_path: wf-grey-cloud.png
+    title: "Downloads"
+    url: "https://wayfinder.github.io/downloads/"
+    excerpt: "Download prerequisite software and map data to be able to build and try it out"
+    btn_class: "btn--inverse"
+    btn_label: "Go fetch"
 ---
 
 {% include base_path %}
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
 
 <h3 class="archive__subtitle">Recent Posts</h3>
 
