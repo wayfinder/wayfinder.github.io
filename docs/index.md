@@ -1,7 +1,6 @@
 ---
 title: Wayfinder Documentation
 layout: single
-permalink: /docs/
 ---
 
  *  [Java architecture, High Level Design](java_architecture)
@@ -28,7 +27,7 @@ permalink: /docs/
  
  *  [Server Routing Algorithm, Documentation of the routing algorithm](server_routing_algorithm)
  
- *  [XML specification (pdf)(/images/xml.pdf)
+ *  [XML specification (pdf)](/downloads/xml.pdf)
  
  
  *  [Tile Map Format](tilemap_format])
