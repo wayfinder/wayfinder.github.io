@@ -41,13 +41,13 @@ When language changes, request new CRC and repeat above.
 Once TileMapFormatDesc is received:
 
 Load the TileMapFormatDesc.
-See `TileMapFormatDesc::load` and [detailed comments of loading TileMapFormatDesc](tilemapformatdescload)
+See `TileMapFormatDesc::load` and [detailed comments of loading TileMapFormatDesc](../tilemapformatdescload)
 
 If failure to load TMFD, request new TMFD from the server with exponential backoff and start over.
 Once the TMFD has been properly loaded, then it's time to request the maps that are needed. See section of How to request map data.
 
 Once a TileMap buffer is received from the server the TileMap::load method should be called. 
-See the [description of how to load a tilemap](LoadingTileMaps).
+See the [description of how to load a tilemap](../loadingtilemaps).
 
 Draw the maps. See section of drawing the maps.
 
