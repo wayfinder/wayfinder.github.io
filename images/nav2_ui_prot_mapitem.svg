@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="18cm" height="9cm" viewBox="707 279 345 166" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="780" y="280" width="183.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="780" y="280" width="183.65" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:italic;font-weight:700" x="871.825" y="299">MapItem</text>
+    <rect style="fill: #ffffff" x="780" y="308" width="183.65" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="780" y="308" width="183.65" height="20"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="783" y="322">+Type: enum MapItemType</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="906.92,346.236 906.92,360 805.12,360 805.12,380 "/>
+    <polygon style="fill: #ffffff" points="914.92,346.236 906.92,330.236 898.92,346.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="914.92,346.236 906.92,330.236 898.92,346.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="906.92,346.236 906.92,360 1012.08,360 1012.08,380 "/>
+    <polygon style="fill: #ffffff" points="914.92,346.236 906.92,330.236 898.92,346.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="914.92,346.236 906.92,330.236 898.92,346.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="920.44" y="380" width="130.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="920.44" y="380" width="130.8" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="985.84" y="399">RouteItem</text>
+    <rect style="fill: #ffffff" x="920.44" y="408" width="130.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="920.44" y="408" width="130.8" height="20"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="923.44" y="422">+Route id: int64</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="708.44" y="380" width="138.35" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="708.44" y="380" width="138.35" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="777.615" y="399">PositionItem</text>
+    <rect style="fill: #ffffff" x="708.44" y="408" width="138.35" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="708.44" y="408" width="138.35" height="36"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="711.44" y="422">+Latitude: int32</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="711.44" y="438">+Longitude: int32</text>
+  </g>
+</svg>

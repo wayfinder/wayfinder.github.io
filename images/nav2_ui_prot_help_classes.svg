@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="31cm" height="16cm" viewBox="-19 28 606 308" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="211" y="29" width="113.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="211" y="29" width="113.1" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="267.55" y="48">Serializable</text>
+    <rect style="fill: #ffffff" x="211" y="57" width="113.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="211" y="57" width="113.1" height="8"/>
+    <rect style="fill: #ffffff" x="211" y="65" width="113.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="211" y="65" width="113.1" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="217.4" y="110" width="121.75" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="217.4" y="110" width="121.75" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="278.275" y="129">GuiProtMess</text>
+    <rect style="fill: #ffffff" x="217.4" y="138" width="121.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="217.4" y="138" width="121.75" height="8"/>
+    <rect style="fill: #ffffff" x="217.4" y="146" width="121.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="217.4" y="146" width="121.75" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="13.4" y="196" width="151.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="13.4" y="196" width="151.85" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="89.325" y="215">GenericGuiMess</text>
+    <rect style="fill: #ffffff" x="13.4" y="224" width="151.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="13.4" y="224" width="151.85" height="8"/>
+    <rect style="fill: #ffffff" x="13.4" y="232" width="151.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="13.4" y="232" width="151.85" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260.4" y="200" width="99.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260.4" y="200" width="99.6" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="310.2" y="219">ErrorMess</text>
+    <rect style="fill: #ffffff" x="260.4" y="228" width="99.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260.4" y="228" width="99.6" height="8"/>
+    <rect style="fill: #ffffff" x="260.4" y="236" width="99.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260.4" y="236" width="99.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="294.4" y="291" width="180.113" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294.4" y="291" width="180.113" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="384.456" y="310">RequestFailedMess</text>
+    <rect style="fill: #ffffff" x="294.4" y="319" width="180.113" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294.4" y="319" width="180.113" height="8"/>
+    <rect style="fill: #ffffff" x="294.4" y="327" width="180.113" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294.4" y="327" width="180.113" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.6,91.2361 297.6,99 297.7,99 297.7,110 "/>
+    <polygon style="fill: #ffffff" points="305.6,91.2361 297.6,75.2361 289.6,91.2361 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="305.6,91.2361 297.6,75.2361 289.6,91.2361 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.7,172.236 297.7,182 328.1,182 328.1,200 "/>
+    <polygon style="fill: #ffffff" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.7,172.236 297.7,182 112.6,182 112.6,196 "/>
+    <polygon style="fill: #ffffff" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.7,172.236 297.7,182 412.5,182 412.5,291 "/>
+    <polygon style="fill: #ffffff" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-18" y="283" width="207.77" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-18" y="283" width="207.77" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="85.8852" y="302">SimpleParameterMess</text>
+    <rect style="fill: #ffffff" x="-18" y="311" width="207.77" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-18" y="311" width="207.77" height="8"/>
+    <rect style="fill: #ffffff" x="-18" y="319" width="207.77" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-18" y="319" width="207.77" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="112.6,258.236 112.6,277 112.7,277 112.7,283 "/>
+    <polygon style="fill: #ffffff" points="120.6,258.236 112.6,242.236 104.6,258.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="120.6,258.236 112.6,242.236 104.6,258.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.7,172.236 297.7,182 524.5,182 524.5,209.5 "/>
+    <polygon style="fill: #ffffff" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="305.7,172.236 297.7,156.236 289.7,172.236 "/>
+  </g>
+  <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="518.8" y="228">
+    <tspan x="518.8" y="228">More messagesages </tspan>
+    <tspan x="518.8" y="244">with data type</tspan>
+    <tspan x="518.8" y="260">type_and_data</tspan>
+  </text>
+</svg>

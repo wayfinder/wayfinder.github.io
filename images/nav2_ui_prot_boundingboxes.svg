@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="50cm" height="12cm" viewBox="483 331 991 236" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="897.88" y="332" width="153.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="897.88" y="332" width="153.45" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:italic;font-weight:700" x="974.605" y="351">BoundingBox</text>
+    <rect style="fill: #ffffff" x="897.88" y="360" width="153.45" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="897.88" y="360" width="153.45" height="20"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="900.88" y="374">+type: enum BoxType</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1004.64,398.236 1004.64,420 585.72,420 585.72,454 "/>
+    <polygon style="fill: #ffffff" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1004.64,398.236 1004.64,420 853.24,420 853.24,454 "/>
+    <polygon style="fill: #ffffff" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1004.64,398.236 1004.64,420 1166.12,420 1166.12,454 "/>
+    <polygon style="fill: #ffffff" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1004.64,398.236 1004.64,420 1433.64,420 1433.64,454 "/>
+    <polygon style="fill: #ffffff" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1012.64,398.236 1004.64,382.236 996.64,398.236 "/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="484" y="454" width="145.9" height="28"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="484" y="454" width="145.9" height="28"/>
+      <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="556.95" y="473">BoxBox</text>
+      <rect style="fill: #ffffff" x="484" y="482" width="145.9" height="68"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="484" y="482" width="145.9" height="68"/>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="487" y="496">+Top Lat: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="487" y="512">+Left Lon: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="487" y="528">+Bottom Lat: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="487" y="544">+Right Lon: int32</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="716.24" y="454" width="198.75" height="28"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="716.24" y="454" width="198.75" height="28"/>
+      <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="815.615" y="473">VectorBox</text>
+      <rect style="fill: #ffffff" x="716.24" y="482" width="198.75" height="84"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="716.24" y="482" width="198.75" height="84"/>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="719.24" y="496">+Position Lat: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="719.24" y="512">+Position Lon: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="719.24" y="528">+Speed: uint16</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="719.24" y="544">+heading: uint8</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="719.24" y="560">+Real world width: uint32</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="1019.04" y="454" width="213.85" height="28"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1019.04" y="454" width="213.85" height="28"/>
+      <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="1125.96" y="473">DiameterBox</text>
+      <rect style="fill: #ffffff" x="1019.04" y="482" width="213.85" height="52"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1019.04" y="482" width="213.85" height="52"/>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="1022.04" y="496">+Position Lat: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="1022.04" y="512">+Position Lon: int32</text>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="1022.04" y="528">+Map Cover Diameter: uint32</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="1342" y="454" width="130.8" height="28"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1342" y="454" width="130.8" height="28"/>
+      <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="1407.4" y="473">RouteBox</text>
+      <rect style="fill: #ffffff" x="1342" y="482" width="130.8" height="20"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1342" y="482" width="130.8" height="20"/>
+      <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="1345" y="496">+Route Id: int64</text>
+    </g>
+  </g>
+</svg>

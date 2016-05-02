@@ -30,6 +30,7 @@ layout: single
 ### C++ client 
 
  *  [C++ clients, overview](cpp_clients_overview)
+ *  [Nav2 Architecture](nav2_architecture)
  *  [Nav2 UI Protocol](nav2_ui_protocol)
  *  [C++ architecture, Core v.2 API](core_v2_api)
  *  [C++ architecture, Core v.2 API - Get started](core_v2_api_get_started)
