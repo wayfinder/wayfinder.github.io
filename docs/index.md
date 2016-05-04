@@ -3,8 +3,26 @@ title: Wayfinder Documentation
 layout: single
 ---
 
+![Vodafone Wayfinder Open Source Software Logo](/images/ps_application_full.png)
+
+Here you will find the technical documentation of the Wayfinder
+software. The aim is to cover both operational information such as running the
+servers and compile new maps as well as further development of the software.
+
+## The Big Picture
+
+The Wayfinder software is a client-server based system for navigation and
+different related location-based-services, including mapping and searching for
+places and addresses. The server is designed to be highly scalable and has a
+distributed architecture and runs on Linux CentOS operating system. Several
+clients, supporting a wide range of mobile phone platforms, are available and
+includes navigation clients for Symbian S60, iPhone and Android. Support for
+importing Open Street Map data is available.
+
 [Getting Started Guide](getting_started)  
  How to build and run both the server and the clients
+
+## Documentation 
 
 ### Server 
  
@@ -63,3 +81,45 @@ layout: single
 ### Tools
  
  *  [Tools](tools_technical)
+
+## Access and contributions
+
+The latest version of all the source code is available in a few different repositories at GitHub, as public projects. In order to be able to contribute your changes back to the code base, just get in contact with the administrators.
+
+
+## Open Source License
+
+The source code is licensed under the BSD license, see below. Even if contributing back your improvements is not required by this license, we encourage this to make the code base evolve and develop. 
+
+	
+	Copyright (c) 1999 - 2010, Vodafone Group Services Ltd
+	All rights reserved.
+	
+	Redistribution and use in source and binary forms, with or without modification,
+	are permitted provided that the following conditions are met:
+	
+
+	    * Redistributions of source code must retain the above copyright notice, 
+	      this list of conditions and the following disclaimer.
+
+	    * Redistributions in binary form must reproduce the above copyright notice,
+	      this list of conditions and the following disclaimer in the documentation
+	      and/or other materials provided with the distribution.
+
+	    * Neither the name of the Vodafone Group Services Ltd nor the names of its 
+	      contributors may be used to endorse or promote products derived from this
+	      software without specific prior written permission.
+	
+	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+	ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+	WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+	DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+	ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+	(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; 
+	LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON 
+	ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
+	(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+	SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
