@@ -96,6 +96,7 @@ include:
   - .htaccess
   - _pages
   - docs
+  - downloads
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -141,6 +141,12 @@ Run `make docs`
 
 The output is put in a `docs` directory next to each corresponding include directory in the tree.
 
+### Map Data
+
+Tele Atlas has made available some map material for development purposes, please notice that this map material is released under a [special license](http://wayfinder.org/downloads/teleatlas.html)
+
+There is also Openstreetmap data available. Please go to the [downloads](/downloads/) page to get them.
+
 ## Java Library Development
 
 First you need to decide which platform you wish to run. See matrix below for the recommended repos. Please note that the majority of all the functionality requires the support of the MC2 server. If you are completely new to the Java Core, it's recommended that you start off by taking a look at the Standard Java configuration since it can be run without having to install on a mobile device.
