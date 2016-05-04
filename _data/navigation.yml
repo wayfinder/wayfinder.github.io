@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Documentation"
-    url: https://wayfinder.github.io/docs/
+    url: /docs/
 
   - title: "Downloads"
-    url: https://wayfinder.github.io/downloads/
+    url: /downloads/
